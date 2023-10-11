@@ -10,7 +10,8 @@
 <h2> Professional Certifications </h2>
 
 - [IBM Data Analyst Professional Certification](https://www.coursera.org/account/accomplishments/professional-cert/ATR9GUFWF5C8)
-- 
+- [Google BI Professional Certification](https://www.coursera.org/account/accomplishments/professional-cert/ZUSFR2U9YERQ)
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="krisna-gopal-das | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
