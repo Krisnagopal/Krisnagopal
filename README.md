@@ -7,7 +7,7 @@
 - <b>Python</b>
   - [Python Project for Automated EDA Operation (with all basic charts)](https://github.com/Krisnagopal/Python-EDA-project)
 
-<h2> <img src="https://github.com/Krisnagopal/Krisnagopal/blob/main/certificate%20image.png"> Professional Certifications: </h2>
+<h2> <img src="https://i.imgur.com/i7k0qjb.png"> Professional Certifications: </h2>
 
 - [IBM Data Analyst Professional Certification](https://www.coursera.org/account/accomplishments/professional-cert/ATR9GUFWF5C8)
 - [Google BI Professional Certification](https://www.coursera.org/account/accomplishments/professional-cert/ZUSFR2U9YERQ)
