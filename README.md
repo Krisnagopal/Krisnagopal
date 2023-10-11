@@ -2,8 +2,6 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice </b>
-  - [Praciting DS & Algos in Python]()
 - <b>Python based Projects </b>
   - [Python Project for Automated EDA Operation (with all basic charts)](https://github.com/Krisnagopal/Python-EDA-project)
   - [Optimization Project using Elasticsearch and GurobiPy](https://github.com/Krisnagopal/Data-Analytics-project-01-using-Elasticsearch)
