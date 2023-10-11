@@ -9,8 +9,8 @@
 
 <h2> <img src="https://i.imgur.com/i7k0qjb.png"> Professional Certifications: </h2>
 
-- [IBM Data Analyst Professional Certification](https://www.coursera.org/account/accomplishments/professional-cert/ATR9GUFWF5C8)
-- [Google BI Professional Certification](https://www.coursera.org/account/accomplishments/professional-cert/ZUSFR2U9YERQ)
+- [IBM Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/ATR9GUFWF5C8)
+- [Google BI Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/ZUSFR2U9YERQ)
   
 <h2> 🤳 Connect with me:</h2>
 
