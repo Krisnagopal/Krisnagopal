@@ -7,7 +7,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)]()
 
-<h2> Professional Certifications </h2>
+<h2> <img src="https://github.com/Krisnagopal/Krisnagopal/blob/main/certificate%20image.png"> Professional Certifications: </h2>
 
 - [IBM Data Analyst Professional Certification](https://www.coursera.org/account/accomplishments/professional-cert/ATR9GUFWF5C8)
 - [Google BI Professional Certification](https://www.coursera.org/account/accomplishments/professional-cert/ZUSFR2U9YERQ)
