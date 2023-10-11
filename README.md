@@ -5,7 +5,7 @@
 - <b>Data Structures and Algorithms Practice </b>
   - [Praciting DS & Algos in Python]()
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)]()
+  - [Python Project for Automated EDA Operation (with all basic charts)](https://github.com/Krisnagopal/Python-EDA-project)
 
 <h2> <img src="https://github.com/Krisnagopal/Krisnagopal/blob/main/certificate%20image.png"> Professional Certifications: </h2>
 
