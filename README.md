@@ -18,7 +18,15 @@
 
 - [IBM Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/ATR9GUFWF5C8)
 - [Google BI Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/ZUSFR2U9YERQ)
+
+
+<h2> <img src="https://i.imgur.com/vzAwUcl.jpg"> Other Certifications/Badges: </h2>
+
+- [Python and SQL for Data Science Certificate](https://moonshot.scaler.com/s/li/7B3V52B8Wu)
+- [	Python Certification Course: Master the essentials](https://moonshot.scaler.com/s/li/O8GS42Jd4b)
   
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="krisna-gopal-das | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
