@@ -24,6 +24,7 @@
 
 - [Python and SQL for Data Science Certificate](https://moonshot.scaler.com/s/li/7B3V52B8Wu)
 - [Python Certification Course: Master the essentials](https://moonshot.scaler.com/s/li/O8GS42Jd4b)
+- [Tableau e-Learning: Connect to and Transform Data](https://www.credly.com/badges/ba5d6a7d-049a-4fe6-9179-3253c6a4d15e/linked_in_profile)
   
 
 
