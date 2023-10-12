@@ -1,6 +1,6 @@
 <h1>Hi, I'm Krisna! <br/><a href="https://github.com/Krisnagopal">IBM Certified Data Analyst</a>, <a href="https://www.linkedin.com/in/krisna-gopal-das/">Google Certified BI Professional</a>
 
-<h2>👨‍💻 Data and BI related Projects:</h2>
+<h2>👨‍💻 Data Analytics and BI related Projects:</h2>
 
 - <b>Python based Projects </b>
   - [Python Project for Automated EDA Operation (with all basic charts)](https://github.com/Krisnagopal/Python-EDA-project)
