@@ -1,10 +1,13 @@
 <h1>Hi, I'm Krisna! <br/><a href="https://github.com/Krisnagopal">IBM Certified Data Analyst</a>, <a href="https://www.linkedin.com/in/krisna-gopal-das/">Google Certified BI Professional</a>
 
-<h2>👨‍💻 Data Analytics Projects:</h2>
+<h2>👨‍💻 Data and BI related Projects:</h2>
 
 - <b>Python based Projects </b>
   - [Python Project for Automated EDA Operation (with all basic charts)](https://github.com/Krisnagopal/Python-EDA-project)
   - [Optimization Project using Elasticsearch and GurobiPy](https://github.com/Krisnagopal/Data-Analytics-project-01-using-Elasticsearch)
+ 
+- <b>BI Project </b>
+  - [Google Business Intelligence Project](https://github.com/Krisnagopal/Python-EDA-project)
 
 <h2> <img src="https://i.imgur.com/i7k0qjb.png"> Professional Certifications: </h2>
 
