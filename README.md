@@ -1,4 +1,4 @@
-<h1>Hi, I'm Krisna! <br/><a href="https://github.com/Krisnagopal">IBM Certified Data Analyst</a>, <a href="https://www.linkedin.com/in/krisna-gopal-das/">Google Certified BI Professional</a>
+<h1>Hi, I'm Krisna! <br/><a href="https://www.coursera.org/account/accomplishments/professional-cert/ATR9GUFWF5C8">IBM Certified Data Analyst</a>, <a href="https://www.coursera.org/account/accomplishments/professional-cert/ZUSFR2U9YERQ">Google Certified BI Professional</a>
 
 <h2>👨‍💻 Data Analytics and BI related Projects:</h2>
 
@@ -11,8 +11,7 @@
 
 <h2>👨‍💻 Consultancy Project:</h2>
  
-- <b>Consultancy for Groningen City Club </b>
-  - [Consulting GCC in BRC Course](https://github.com/Krisnagopal/Google-BI-Project)
+- [Consultancy for Groningen City Club](https://github.com/Krisnagopal/Google-BI-Project)
 
 <h2> <img src="https://i.imgur.com/i7k0qjb.png"> Professional Certifications: </h2>
 
