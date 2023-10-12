@@ -11,7 +11,7 @@
 
 <h2>👨‍💻 Consultancy Project:</h2>
  
-- [Consultancy for Groningen City Club](https://github.com/Krisnagopal/Google-BI-Project)
+- [Consultancy for Groningen City Club](https://github.com/Krisnagopal/Consultancy-project)
 
 <h2> <img src="https://i.imgur.com/i7k0qjb.png"> Professional Certifications: </h2>
 
