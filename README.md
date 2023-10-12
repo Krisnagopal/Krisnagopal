@@ -23,7 +23,7 @@
 <h2> <img src="https://i.imgur.com/vzAwUcl.jpg"> Other Certifications/Badges: </h2>
 
 - [Python and SQL for Data Science Certificate](https://moonshot.scaler.com/s/li/7B3V52B8Wu)
-- [	Python Certification Course: Master the essentials](https://moonshot.scaler.com/s/li/O8GS42Jd4b)
+- [Python Certification Course: Master the essentials](https://moonshot.scaler.com/s/li/O8GS42Jd4b)
   
 
 
