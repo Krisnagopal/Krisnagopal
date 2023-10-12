@@ -5,9 +5,10 @@
 - <b>Python based Projects </b>
   - [Python Project for Automated EDA Operation (with all basic charts)](https://github.com/Krisnagopal/Python-EDA-project)
   - [Optimization Project using Elasticsearch and GurobiPy](https://github.com/Krisnagopal/Data-Analytics-project-01-using-Elasticsearch)
+  - [ETL operation using Python and Machine Learning Modelling](https://github.com/Krisnagopal/Data-Analytics-project-01-using-Elasticsearch)
  
 - <b>BI Project </b>
-  - [Google Business Intelligence Project](https://github.com/Krisnagopal/Google-BI-Project)
+  - [Google Business Intelligence Project (ETL & Viz)](https://github.com/Krisnagopal/Google-BI-Project)
   - [Tableau Dashboard Building (practice) Project](https://github.com/Krisnagopal/tableau-dashboard-project)
 
 <h2>👨‍💻 Consultancy Project:</h2>
