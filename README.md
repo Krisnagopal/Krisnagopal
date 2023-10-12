@@ -1,4 +1,4 @@
-<h1>Hi, I'm Krisna! <br/><a href="https://www.coursera.org/account/accomplishments/professional-cert/ATR9GUFWF5C8">IBM Certified Data Analyst</a>, <a href="https://www.coursera.org/account/accomplishments/professional-cert/ZUSFR2U9YERQ">Google Certified BI Professional</a>
+<h1>Hi, I'm Krisna! <br/><a href="https://www.coursera.org/account/accomplishments/professional-cert/ATR9GUFWF5C8">IBM Certified Data Analyst</a>, <a href="https://www.coursera.org/account/accomplishments/professional-cert/ZUSFR2U9YERQ">Google Certified BI Specialist</a>
 
 <h2>👨‍💻 Data Analytics and BI related Projects:</h2>
 
