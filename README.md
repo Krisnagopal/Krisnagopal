@@ -9,6 +9,11 @@
 - <b>BI Project </b>
   - [Google Business Intelligence Project](https://github.com/Krisnagopal/Google-BI-Project)
 
+<h2>👨‍💻 Consultancy Project:</h2>
+ 
+- <b>Consultancy for Groningen City Club </b>
+  - [Consulting GCC in BRC Course](https://github.com/Krisnagopal/Google-BI-Project)
+
 <h2> <img src="https://i.imgur.com/i7k0qjb.png"> Professional Certifications: </h2>
 
 - [IBM Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/ATR9GUFWF5C8)
