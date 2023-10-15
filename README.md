@@ -10,6 +10,7 @@
 - <b>BI Project </b>
   - [Google Business Intelligence Project (ETL & Viz)](https://github.com/Krisnagopal/Google-BI-Project)
   - [Tableau Dashboard Building (practice) Project](https://github.com/Krisnagopal/tableau-dashboard-project)
+  - [Power BI Dashboard Building (practice) Project](https://github.com/Krisnagopal/tableau-dashboard-project)
 
 <h2>👨‍💻 Consultancy Project:</h2>
  
