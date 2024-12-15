@@ -21,6 +21,7 @@
 - [IBM DevOps and Software Engineering Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/BN7M5KKRTMKY)
 - [IBM Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/ATR9GUFWF5C8)
 - [Google BI Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/ZUSFR2U9YERQ)
+- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/krisnadas-0930/credentials/920a2376553876ad?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 
 <h2> <img src="https://i.imgur.com/vzAwUcl.jpg"> Other Certifications/Badges: </h2>
