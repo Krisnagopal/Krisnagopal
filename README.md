@@ -1,4 +1,4 @@
-<h1>Hi, I'm Krisna! <br/><a href="https://www.coursera.org/account/accomplishments/professional-cert/ATR9GUFWF5C8">IBM Certified Data Analyst</a>, <a href="https://www.coursera.org/account/accomplishments/professional-cert/ZUSFR2U9YERQ">Google Certified BI Specialist</a>
+<h1>Hi, I'm Krisna! <br/> IT Consultant & Software Engr., <a href="https://www.coursera.org/account/accomplishments/professional-cert/BN7M5KKRTMKY">IBM Certified DevOps Professional</a>, <a href="https://www.coursera.org/account/accomplishments/professional-cert/ATR9GUFWF5C8">IBM Certified Data Analyst</a>, <a href="https://www.coursera.org/account/accomplishments/professional-cert/ZUSFR2U9YERQ">Google Certified BI Specialist</a>
 
 <h2>👨‍💻 Data Analytics and BI related Projects:</h2>
 
@@ -18,6 +18,7 @@
 
 <h2> <img src="https://i.imgur.com/i7k0qjb.png"> Professional Certifications: </h2>
 
+- [IBM DevOps and Software Engineering Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/BN7M5KKRTMKY)
 - [IBM Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/ATR9GUFWF5C8)
 - [Google BI Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/ZUSFR2U9YERQ)
 
