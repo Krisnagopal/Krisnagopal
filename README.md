@@ -22,6 +22,7 @@
 - [IBM Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/ATR9GUFWF5C8)
 - [Google BI Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/ZUSFR2U9YERQ)
 - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/krisnadas-0930/credentials/920a2376553876ad?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- [Professional Scrum Master™ I (PSM I)](https://www.credly.com/badges/cd6236b9-6458-4c4e-ad3b-443c30ca942a/linked_in_profile)
 
 
 <h2> <img src="https://i.imgur.com/vzAwUcl.jpg"> Other Certifications/Badges: </h2>
